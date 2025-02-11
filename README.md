@@ -1,6 +1,23 @@
 # React Courses App
 
 A responsive web application built with React, Redux Toolkit, and Tailwind CSS. This project showcases a list of courses with detailed information and a student dashboard for enrolled courses. The application features advanced state management, real-time (simulated) likes updates, and a modern, mobile-friendly UI.
+## Screenshots
+
+### Desktop Views
+
+#### Main Interface
+![Main interface description](https://github.com/user-attachments/assets/cbc499e0-14c7-4e25-b785-ff1181ea0fb8)
+
+#### Dashboard
+![image](https://github.com/user-attachments/assets/b59311e1-9f7f-4375-8987-60db2c5f9f7c)
+
+### Mobile Views
+
+#### Home Screen
+![Screenshot 2025-02-11 191152](https://github.com/user-attachments/assets/e7677777-a655-4388-bc03-10e91c9f46f9)
+
+#### Mobile Dashboard
+![image](https://github.com/user-attachments/assets/be051090-b2cd-411b-b7d1-7b7c2995373c)
 
 ## Features
 
