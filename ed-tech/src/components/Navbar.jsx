@@ -13,7 +13,7 @@ const Navbar = () => {
 
         {/* Mobile Menu Button */}
         <button
-          className="text-white md:hidden"
+          className="text-black md:hidden"
           onClick={() => setIsOpen(!isOpen)}
         >
           {isOpen ? <FiX size={24} /> : <FiMenu size={24} />}
