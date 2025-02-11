@@ -87,11 +87,3 @@ npm run preview
 * React Router – For client-side routing
 * Tailwind CSS – For utility-first responsive styling
 * React Icons – For incorporating modern icons in the UI
-
-## Advanced Features
-
-* **Real-Time Likes Update**: The Course Listing page simulates real-time likes updates every 5 seconds using Redux async thunks
-
-* **Responsive Navbar**: The navbar adjusts between full-width on larger screens and a centered layout on medium screens, with a hamburger menu for mobile devices
-
-* **Course Enrollment & Completion**: Students can enroll in courses (if available) and mark them as completed from the Student Dashboard
