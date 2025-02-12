@@ -43,7 +43,7 @@ A responsive web application built with React, Redux Toolkit, and Tailwind CSS. 
 ## Project Structure
 
 ```
-react-courses-app/
+ed-tech/
 ├── index.html
 ├── package.json
 ├── vite.config.js
@@ -67,7 +67,7 @@ react-courses-app/
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/react-courses-app.git
-   cd react-courses-app
+   cd ed-tech
    ```
 
 2. **Install Dependencies**
